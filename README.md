@@ -2,6 +2,6 @@
 My first repository.
 
 ## My favorite Movie
-1.Black Panter
-2.Red Notice
+1.The Uncharted
+2.Doctor Strange 2022
 
